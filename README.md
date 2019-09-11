@@ -1,4 +1,2 @@
-# Personal portfolio
-Multimedia Design Portfolio
-
+# Multimedia Design Portfolio
 <https://rojusr.github.io/portfolio/>
